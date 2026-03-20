@@ -2,11 +2,15 @@
 
 This project focuses on building the structure of a complete web page using semantic HTML5 elements, without any CSS styling.
 
+---
+
 ## Description
 
 The purpose of this project is to practice writing clean, well-structured, and standards-compliant HTML. It covers the skeleton of an HTML5 document, semantic page sections, headings hierarchy, lists, tables, media integration, and embedded content.
 
 The company name used throughout the project is **Techium**.
+
+---
 
 ## Learning objectives
 
@@ -19,10 +23,14 @@ The company name used throughout the project is **Techium**.
 - Integrate images, audio, video, and embedded external content
 - Write valid and well-structured HTML
 
+---
+
 ## Technologies used
 
 - HTML5
 - W3C Validator
+
+---
 
 ## Requirements
 
@@ -30,6 +38,8 @@ The company name used throughout the project is **Techium**.
 - W3C-compliant HTML
 - Correct use of semantic tags
 - No CSS styling required for this project
+
+---
 
 ## Project focus
 
